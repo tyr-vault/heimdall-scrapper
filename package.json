@@ -32,6 +32,9 @@
     "jsdom"
   ],
   "author": "Matheus Rocha <matheus_rocha98@outlook.com> (https://mrocha.xyz/)",
+  "contributors": [
+    "Rafael David <rafael.silva@fractaleng.com.br>"
+  ],
   "license": "AGPL-3.0-or-later",
   "engines": {
     "node": ">=22"

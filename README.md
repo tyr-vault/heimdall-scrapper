@@ -443,7 +443,9 @@ There is no `CONTRIBUTING.md` yet. Practical path:
 
 - Repository: [github.com/mrocha98/garimpeiro-olx](https://github.com/mrocha98/garimpeiro-olx)
 - Issues: [issues](https://github.com/mrocha98/garimpeiro-olx/issues)
-- Author (from `package.json`): Matheus Rocha — [mrocha.xyz](https://mrocha.xyz/)
+- Authors:
+  - Matheus Rocha — [mrocha.xyz](https://mrocha.xyz/) (`package.json` author)
+  - Rafael David — `rafael.silva@fractaleng.com.br` (co-author / `package.json` contributors)
 
 ---
 
@@ -711,4 +713,6 @@ Sem `CONTRIBUTING.md`. Abra uma issue, prefira PRs focados, rode `make lint` / `
 
 - Repositório: [github.com/mrocha98/garimpeiro-olx](https://github.com/mrocha98/garimpeiro-olx)
 - Issues: [issues](https://github.com/mrocha98/garimpeiro-olx/issues)
-- Autor (`package.json`): Matheus Rocha — [mrocha.xyz](https://mrocha.xyz/)
+- Autores:
+  - Matheus Rocha — [mrocha.xyz](https://mrocha.xyz/) (`author` no `package.json`)
+  - Rafael David — `rafael.silva@fractaleng.com.br` (co-autor / `contributors` no `package.json`)
